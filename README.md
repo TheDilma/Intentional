@@ -1,1 +1,1 @@
-# Intentional Development 
+# Intentional 
